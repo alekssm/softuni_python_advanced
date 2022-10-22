@@ -1,0 +1,2 @@
+parts = input().split()
+
